@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@sensinum/strapi-plugin-mcp": "1.1.0",
+    "@strapi/admin": "5.34.0",
     "@strapi/plugin-cloud": "5.34.0",
     "@strapi/plugin-users-permissions": "5.34.0",
     "@strapi/strapi": "5.34.0",
